@@ -1,0 +1,174 @@
+body {
+
+}
+
+header {
+    background-image: url("src/Group.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 100vh;
+}
+
+figure {
+    width: 100%;
+}
+
+.header_span {
+    display: inline-block;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: lighter;
+    letter-spacing: 1px;
+}
+
+.header_image {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.header_title {
+    float: left;
+    font-family: "Source Sans Pro", sans-serif;
+    color: white;
+}
+
+.header_links {
+    float: right;
+    margin-left: 10px;
+}
+
+#recipes {
+    color: #CD964C;
+}
+
+.header_links a {
+    margin-left: 20px;
+    text-decoration: none;
+    font-family: "Source Sans Pro", sans-serif;
+    color: white;
+}
+
+.reservations {
+    border: 1px solid #CD964C;
+    padding: 10px;
+}
+
+.header_links a:hover {
+    text-decoration: underline;
+}
+
+.header_mid {
+    text-align: center;
+    width: 50%;
+    height: 40%;
+    position: absolute;
+    margin-right: 25%;
+    margin-left: 25%;
+    margin-top: 200px;
+}
+
+.header_mid h3 {
+    font-family: "Pinyon Script", cursive;
+    color: #CD964C;
+    font-size: 80px;
+}
+
+.header_mid h1 {
+    font-family: "Source Sans Pro", sans-serif;
+    color: white;
+    font-weight: 900;
+    font-size: 80px;
+    letter-spacing: 12px;
+    line-height: 88px;
+}
+
+.header_mid h5 {
+    font-family: "Source Sans Pro", sans-serif;
+    color: white;
+    font-weight: lighter;
+    letter-spacing: 3px;
+    font-size: 26px;
+    margin-top: 20px;
+}
+
+.middle {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    margin-top: -75px;
+}
+
+.middle_left {
+    border: 1px solid #CD964C;
+    padding: 30px;
+    width: 40%;
+    font-size: 120%;
+}
+
+.middle_right {
+    margin-left: 60px;
+    text-align: left;
+    padding: 20px;
+    width: 60%;
+    margin-top: 80px;
+}
+
+.ingredients {
+    font-family: "Source Sans Pro", sans-serif;
+    margin-right: auto;
+    margin-left: auto;
+    width: 90%;
+    text-align: center;
+}
+
+.ingredients td {
+    padding: 15px;
+}
+
+.amounts {
+    font-weight: lighter;
+}
+
+.ingr {
+    font-size: large;
+}
+
+
+.line {
+    color: #CD964C;
+    font-size: 60px;
+}
+
+.be_ready{
+    font-family: "Source Sans Pro" ,sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    
+}
+
+.middle_right h2 {
+    font-family: "Pinyon Script", cursive;
+    color: #CD964C;
+    font-size: 45px;
+}
+
+.middle_right p {
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: lighter;
+    color: #3B3B3B;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+
+
+/* Test zone */
+
+
